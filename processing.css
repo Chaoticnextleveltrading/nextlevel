@@ -33,11 +33,11 @@ header{
 
     body {
         justify-content: center;
-        align-items: center;
+        /* align-items: center; */
         background-color: grey;
     }
 
-    .container2 {
+    .container {
         width: auto;
     }
 
